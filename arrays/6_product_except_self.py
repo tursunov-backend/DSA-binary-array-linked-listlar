@@ -1,7 +1,3 @@
-# Maqola: https://www.geeksforgeeks.org/dsa/top-50-array-coding-problems-for-interviews/
-# Masala: Har bir indeks uchun o'zidan boshqa barcha elementlar ko'paytmasini topish,
-# bo'lish amalisiz (Product of Array Except Self).
-
 
 def product_except_self(nums):
     n = len(nums)

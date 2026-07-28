@@ -1,7 +1,3 @@
-# Maqola: https://www.educative.io/blog/array-interview-questions
-# Masala: Faqat 0, 1, 2 sonlaridan iborat massivni bitta o'tishda saralash
-# (Sort Colors / Dutch National Flag algoritmi).
-
 
 def sort_colors(nums):
     low, mid, high = 0, 0, len(nums) - 1

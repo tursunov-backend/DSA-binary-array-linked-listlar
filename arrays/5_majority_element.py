@@ -1,8 +1,3 @@
-# Maqola: https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html
-# Masala: Massivda n/2 martadan ko'p uchraydigan elementni topish (Majority Element,
-# Boyer-Moore Voting algoritmi).
-
-
 def majority_element(nums):
     count, candidate = 0, None
     for num in nums:

@@ -1,7 +1,3 @@
-# Maqola: https://www.educative.io/blog/array-interview-questions
-# Masala: Aksiyani bitta marta sotib olib, bitta marta sotib eng katta foydani topish
-# (Best Time to Buy and Sell Stock).
-
 
 def max_profit(prices):
     min_price = float('inf')

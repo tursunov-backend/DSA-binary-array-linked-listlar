@@ -1,7 +1,3 @@
-# Maqola: https://www.geeksforgeeks.org/dsa/top-50-array-coding-problems-for-interviews/
-# Masala: Berilgan balandliklar massividan eng ko'p suv sig'diradigan idishni topish
-# (Container With Most Water, two-pointer usuli).
-
 
 def max_area(height):
     left, right = 0, len(height) - 1

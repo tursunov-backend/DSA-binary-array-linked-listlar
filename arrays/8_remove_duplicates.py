@@ -1,7 +1,3 @@
-# Maqola: https://www.interviewbit.com/array-interview-questions/
-# Masala: Saralangan massivdan takrorlanuvchi elementlarni joyida (in-place) olib tashlash
-# (Remove Duplicates from Sorted Array).
-
 
 def remove_duplicates(nums):
     if not nums:

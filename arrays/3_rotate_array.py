@@ -1,5 +1,3 @@
-# Maqola: https://www.tutorialspoint.com/article/top-50-array-coding-problems-for-programming-interviews
-# Masala: Massivni k pozitsiyaga o'ngga aylantirish (Rotate Array).
 
 
 def rotate_array(nums, k):

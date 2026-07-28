@@ -1,5 +1,3 @@
-# Maqola: https://www.interviewbit.com/array-interview-questions/
-# Masala: Barcha nol qiymatlarni massiv oxiriga surish, tartibni buzmasdan (Move Zeroes).
 
 
 def move_zeroes(nums):
