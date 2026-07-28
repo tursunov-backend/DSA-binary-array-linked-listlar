@@ -15,4 +15,4 @@ def sort_colors(nums):
 
 
 if __name__ == "__main__":
-    print(sort_colors([2, 0, 2, 1, 1, 0]))  # -> [0, 0, 1, 1, 2, 2]
+    print(sort_colors([2, 0, 2, 1, 1, 0]))  

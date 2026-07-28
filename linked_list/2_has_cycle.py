@@ -27,9 +27,9 @@ def has_cycle(head):
 
 if __name__ == "__main__":
     ll = build_linked_list([1, 2, 3, 4])
-    print(has_cycle(ll))  # -> False
+    print(has_cycle(ll)) 
 
-    # Sikl hosil qilish misoli:
+
     ll2 = build_linked_list([1, 2, 3])
-    ll2.next.next.next = ll2  # oxirini boshiga ulaymiz
-    print(has_cycle(ll2))  # -> True
+    ll2.next.next.next = ll2 
+    print(has_cycle(ll2)) 

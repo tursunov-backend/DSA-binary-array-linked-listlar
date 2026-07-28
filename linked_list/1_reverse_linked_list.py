@@ -36,4 +36,4 @@ def reverse_linked_list(head):
 if __name__ == "__main__":
     ll = build_linked_list([1, 2, 3, 4, 5])
     reversed_ll = reverse_linked_list(ll)
-    print(linked_list_to_list(reversed_ll))  # -> [5, 4, 3, 2, 1]
+    print(linked_list_to_list(reversed_ll))  

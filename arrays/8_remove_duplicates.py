@@ -13,4 +13,4 @@ def remove_duplicates(nums):
 if __name__ == "__main__":
     arr = [1, 1, 2, 2, 3]
     k = remove_duplicates(arr)
-    print(arr[:k])  # -> [1, 2, 3]
+    print(arr[:k]) 

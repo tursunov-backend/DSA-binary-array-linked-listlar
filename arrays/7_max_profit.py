@@ -9,4 +9,4 @@ def max_profit(prices):
 
 
 if __name__ == "__main__":
-    print(max_profit([7, 1, 5, 3, 6, 4]))  # -> 5
+    print(max_profit([7, 1, 5, 3, 6, 4]))  

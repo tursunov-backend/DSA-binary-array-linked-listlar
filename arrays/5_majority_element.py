@@ -8,4 +8,4 @@ def majority_element(nums):
 
 
 if __name__ == "__main__":
-    print(majority_element([2, 2, 1, 1, 1, 2, 2]))  # -> 2
+    print(majority_element([2, 2, 1, 1, 1, 2, 2])) 

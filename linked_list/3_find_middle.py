@@ -24,4 +24,4 @@ def find_middle(head):
 
 if __name__ == "__main__":
     ll = build_linked_list([1, 2, 3, 4, 5])
-    print(find_middle(ll).val)  # -> 3
+    print(find_middle(ll).val) 
